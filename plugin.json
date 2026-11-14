@@ -1,0 +1,9 @@
+{
+  "id": "rust-example",
+  "name": "Rust Native Plugin",
+  "version": "1.0.0",
+  "author": "NeoMir Team",
+  "description": "Пример нативного Rust-плагина для Pole с Adwaita UI и полным IPC API (Робот, консоль, датчики).",
+  "enabled": false,
+  "entry": "rust-example-plugin"
+}
